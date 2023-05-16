@@ -7,24 +7,24 @@ function Slider() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://unitingartists.org/wp-content/uploads/2020/04/Film-posters-800x445.png"
+            src="https://c4.wallpaperflare.com/wallpaper/189/878/453/scarlett-johansson-infinity-vision-hulk-wallpaper-preview.jpg"
             alt="First slide"
           />
           <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <h3>Marvel Avengers</h3>
+            <p>Avengers: Infinity War, Black Panther</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://i0.wp.com/www.admecindia.co.in/wp-content/uploads/2020/06/types-of-movie-posters-14.jpg?resize=860%2C450&ssl=1"
+            src="https://c4.wallpaperflare.com/wallpaper/848/459/694/movie-spider-man-into-the-spider-verse-marvel-comics-miles-morales-spider-man-hd-wallpaper-preview.jpg"
             alt="Second slide"
           />
   
           <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <h3>Spider-Man</h3>
+            <p>Into The Spider-Verse, Marvel Comics, Miles Morales</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
