@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 
-function ContactPages() {
+function LoginPage() {
   return (
     <div>
         <Navbar />
@@ -9,4 +9,4 @@ function ContactPages() {
   )
 }
 
-export default ContactPages
+export default LoginPage

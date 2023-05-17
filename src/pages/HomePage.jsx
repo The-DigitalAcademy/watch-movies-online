@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Slider from '../components/Slider'
-import { Card } from 'react-bootstrap'
+import Carousel from '../components/carousel'
 
 
 const HomePage = () => {
@@ -9,7 +9,7 @@ const HomePage = () => {
     <div>
       <Navbar />
       <Slider />
-      <Card />
+      <Carousel />
 
     </div>
   )

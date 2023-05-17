@@ -12,7 +12,8 @@ function Slider() {
           />
           <Carousel.Caption>
             <h3>Marvel Avengers</h3>
-            <p>Avengers: Infinity War, Black Panther</p>
+            <p>Avengers: Infinity War, Black Panther
+            </p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>

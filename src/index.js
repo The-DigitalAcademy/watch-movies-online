@@ -8,10 +8,9 @@ import {
 } from "react-router-dom";
 import App from './App';
 import HomePage from './pages/HomePage';
-import AboutPage from './pages/AboutPage';
 import DetailPages from './pages/DetailPages';
-import PricePages from './pages/PricePages';
-import ContactPages from './pages/ContactPages';
+import LoginPage from './pages/LoginPage';
+import RegisterPage from './pages/RegisterPage';
 
 
 
@@ -22,22 +21,19 @@ const router = createBrowserRouter([
     element: <HomePage />,
   },
   {
-    path: "/about",
-    element: <AboutPage />,
-  },
-  {
     path: "/detail",
     element: <DetailPages />,
   },
   {
-    path: "/price",
-    element: <PricePages />,
+    path: "/login",
+    element: <LoginPage />,
   },
   {
-    path: "/contact",
-    element: <ContactPages />,
+    path: "/register",
+    element: <RegisterPage />,
   },
- 
+  
+  
 ]);
 
 
