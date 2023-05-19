@@ -5,6 +5,7 @@ function RegisterPage() {
   return (
     <div>
         <Navbar />
+        RegisterPage
     </div>
   )
 }
