@@ -15,7 +15,8 @@ function Banner() {
       <p>
         Choose your favorite streaming providers and never miss when new movies
         or episodes of your favorite tv series are added. Always stay up to date
-        with the JustWatch Timeline. Use a filter for your favorite streaming
+        with the JustWatch Timeline. 
+        Use a filter for your favorite streaming
         provider, genre or release year. Our Watchbar will remember your
         settings.
       </p>

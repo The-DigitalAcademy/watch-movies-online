@@ -11,6 +11,8 @@ import HomePage from './pages/HomePage';
 import DetailPages from './pages/DetailPages';
 import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
+import SpecialPages from './pages/SpecialPages';
+
 
 
 
@@ -32,7 +34,10 @@ const router = createBrowserRouter([
     path: "/register",
     element: <RegisterPage />,
   },
-  
+  {
+    path: "/special",
+    element: <SpecialPages />,
+  },
   
 ]);
 
