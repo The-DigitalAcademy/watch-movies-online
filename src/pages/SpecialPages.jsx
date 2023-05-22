@@ -1,6 +1,9 @@
 import React from "react";
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 function SpecialPages() {
   return (
@@ -21,17 +24,25 @@ function SpecialPages() {
         and Grey’s Anatomy.
       </p>
       <div class="filter-bar-content-type__item active"><a href="/za"> All </a></div>
-      <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+      <div class="filter-bar-content-type__item"><a href=".0"> Movies </a></div>
+      <div class="filter-bar-content-type__item"><a href="/za/tv-series"> TV series </a></div>
+     
+       
+    <Row>
+        <Col>
+         <Card style={{ width: '10rem' }}>
+      <Card.Img variant="top" src="https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg" />
       <Card.Body>
-        <Card.Title>Card Title</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
       </Card.Body>
-    </Card>
+    </Card></Col>
+    
+        <Col>2 of 2</Col>
+      </Row>
+      <Row>
+        <Col>1 of 3</Col>
+        <Col>2 of 3</Col>
+        <Col>3 of 3</Col>
+      </Row>
        
     </div>
   );
