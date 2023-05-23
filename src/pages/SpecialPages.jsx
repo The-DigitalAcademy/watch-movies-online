@@ -275,7 +275,7 @@ function SpecialPages() {
 
             <Col> 
         <Card style={{ width: "10rem"}}>
-              <Card.Img  variant="top" src="" />
+              <Card.Img  variant="top" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81bbcf27-c458-4e2f-bda4-1bddab82b21a/d5522p6-965e44b3-b710-483a-9309-b2eda985aea4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgxYmJjZjI3LWM0NTgtNGUyZi1iZGE0LTFiZGRhYjgyYjIxYVwvZDU1MjJwNi05NjVlNDRiMy1iNzEwLTQ4M2EtOTMwOS1iMmVkYTk4NWFlYTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2NEgzt-Xb11sOmy_dF83thgz8FfyfhpWig7PaLtuN8E" />
             </Card>
             </Col>
 
