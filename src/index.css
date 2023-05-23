@@ -5,7 +5,6 @@
   box-sizing: border-box;
 }
 
-.card {
-  margin-bottom: auto;
-  flex-direction: row;
+body {
+  background-color: gray;
 }
